@@ -7,5 +7,8 @@ print(2*2+2)
 print(2*(2+2))
 print(6==8)
 # 4th program
+x = 123.456
+Y = int(x)
+print(Y)
 print(float('123.456'))
 print(int(123.456*10)%10)
